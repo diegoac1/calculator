@@ -27,7 +27,7 @@ class Panel extends React.Component {
     render(){
         return (
             <div className="App">
-              <div class = "title">Calculator</div>
+              <div class = "title">Calculator </div>
               <table border="1">
                 <tr>
                   <td colspan="3"><input type="text" id="result"/></td>
